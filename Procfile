@@ -1,1 +1,1 @@
-web: run npm migrate
+web: run npm migrate && npm run start
