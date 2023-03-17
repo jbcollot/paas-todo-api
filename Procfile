@@ -1,1 +1,1 @@
-web: run npm migrate && npm run start
+postdeploy: npm run migrate
